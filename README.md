@@ -2,4 +2,4 @@
 
 # Ignasi Salvador Llobet @IgnasiSal
 
-El projectec es compila mitjan·nt l'ordre "make"
+El projectec es compila mitjan√ßant l'ordre "make"
